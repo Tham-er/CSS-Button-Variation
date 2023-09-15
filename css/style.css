@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #131416;
+    height: 100vh;
+}
+
+.margin{
+    margin-bottom: 40px;
+  }
+  
+.button-simple{
+    background-color: #3498db;
+    color: #fff;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+}
