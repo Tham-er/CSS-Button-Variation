@@ -19,3 +19,18 @@ body {
     cursor: pointer;
     border-radius: 6px;
 }
+
+.button-hover{
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: box-shadow 0.2s;
+  }
+  
+.button-hover:hover {
+    background-color: #c0392b;
+    box-shadow: 0 0px 20px #c0392b;
+}
